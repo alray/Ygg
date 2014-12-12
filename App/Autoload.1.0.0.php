@@ -1,1 +1,1 @@
-/home/server/VirtualHosts/Ygg/Std/Project/Autoload.1.0.0.php
+../Std/Project/Autoload.1.0.0.php
